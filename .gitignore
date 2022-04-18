@@ -1,0 +1,7 @@
+.env
+.DS_Store
+*.wpress
+*wp.com
+db-data
+wp-app
+access_key.pem
